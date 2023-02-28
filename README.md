@@ -10,3 +10,9 @@ Código desenvolvido com o objetivo de criar um VÍDEO para o canal DEV JUNIOR n
 <p align="center">Você pode acessar o VÍDEO através do link: 
 <a href= "https://www.youtube.com/watch?v=bp9m3AzWmx0" target="_blank"> Clique aqui ⏯ </a>
 </p>
+
+<p align="center">Você pode acessar a PÁGINA do projeto através do link: 
+<a href= "https://alima07.github.io/rocketseat-stage3-revisao-video-space-cream/" target="_blank"> Clique aqui 🤖 </a>
+</p>
+
+
